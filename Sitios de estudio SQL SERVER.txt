@@ -1,0 +1,5 @@
+
+
+Tipos de consultas: https://learn.microsoft.com/es-es/previous-versions/sql/sql-server-2008-r2/ms175838(v=sql.105)
+
+Esquemas: https://learn.microsoft.com/es-es/sql/t-sql/statements/grant-transact-sql?view=sql-server-ver16
